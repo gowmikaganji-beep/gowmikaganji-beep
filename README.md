@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Computer Science Engineering Student | 2nd Year B.Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=CSE+Student+%40+College;Problem+Solver;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=CSE+Student+%40+SRM UNIVERSITY AP;Problem+Solver;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
