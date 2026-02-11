@@ -17,7 +17,7 @@
 - 💻 Currently working on **Student Management Systems** and **Web Development**
 - 🌱 Learning **Data Structures, Algorithms, and Full Stack Development**
 - 🎯 Goal: To become a **Software Engineer** and contribute to meaningful projects
-- 📫 Reach me at **gowmikaganji@example.com** (update with your email)
+- 📫 Reach me at **gowmikaganji@gmail.com.com** (update with your email)
 - ⚡ Fun fact: **I love solving coding problems and building practical applications!**
 
 ---
