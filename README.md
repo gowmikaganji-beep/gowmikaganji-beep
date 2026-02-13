@@ -11,14 +11,16 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-- 🎓 I'm a **2nd Year B.Tech CSE Student**
-- 💻 Currently working on **Student Management Systems** and **Web Development**
-- 🌱 Learning **Data Structures, Algorithms, and Full Stack Development**
-- 🎯 Goal: To become a **Software Engineer** and contribute to meaningful projects
-- 📫 Reach me at **gowmikaganji2420@gmail.com.com** (update with your email)
-- ⚡ Fun fact: **I love solving coding problems and building practical applications!**
+🎓 2nd Year B.Tech Computer Science Engineering Student
+💻 Built projects like Student Management System and other web-based applications
+🧠 Strong foundation in C,C++,OOPS Concepts, Data Structures and Algorithms
+🌐 Skilled in Full Stack Web Development
+🛠️ Passionate about writing clean, efficient, and scalable code
+🚀 Actively working on real-world projects to strengthen problem-solving skills
+🎯 Aspiring Software Engineer eager to contribute to impactful and meaningful tech solutions
+📫 Reach me at: gowmikaganji2420@gmail.com**
 
 ---
 
