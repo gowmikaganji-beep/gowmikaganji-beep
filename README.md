@@ -33,7 +33,7 @@
 
 ## 🚀 My Projects
 
-### 📚 [Student Record Management System (SRMS)](https://github.com/gowmikaganji-beep/SRMS)
+### 📚 [GameSense(Games recommendations)](https://github.com/gowmikaganji-beep/GameSenseAI)
 A comprehensive system to effectively manage, store, and retrieve student data. Replaces manual record-keeping with an automated solution.
 - **Tech Stack:** C
 - **Features:** Automated data management, efficient retrieval
