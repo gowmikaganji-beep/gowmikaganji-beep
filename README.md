@@ -34,8 +34,8 @@
 ## 🚀 My Projects
 
 ### 📚 [GameSense(Games recommendations)](https://github.com/gowmikaganji-beep/GameSenseAI)
-A comprehensive system to effectively manage, store, and retrieve student data. Replaces manual record-keeping with an automated solution.
-- **Tech Stack:** C
+ A dynamic web application that helps users discover video games based on their current mood. Users select how they feel — such as Relaxed, Competitive — and the platform displays curated game options along with trailers
+- **Tech Stack:** html5,CSS3,Javascript
 - **Features:** Automated data management, efficient retrieval
 
 ### 👥 [Attendance Management System](https://github.com/gowmikaganji-beep/Attendance-Management-System-Using-Bit-Manipulation-)
