@@ -76,14 +76,6 @@ Modern, responsive shopping cart application with attractive UI/UX
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowmikaganji-beep&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
