@@ -19,7 +19,7 @@
 
 🧠 Strong foundation in C,C++,Python,OOPS Concepts, Data Structures and Algorithms
 
-🌐 Skilled in Full Stack Web Development
+🌐 Skilled in Full Stack  Development
 
 🛠️ Passionate about writing clean, efficient, and scalable code
 
