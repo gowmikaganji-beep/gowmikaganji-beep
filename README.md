@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 2nd Year B.Tech Computer Science Engineering Student
+🎓 3rd Year B.Tech Computer Science Engineering Student
 
 💻 Built projects like Student Management System and other web-based applications
 
