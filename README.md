@@ -31,24 +31,8 @@
 
 ---
 
-## 🚀 My Projects
 
-### 📚 [GameSense(Games recommendations)](https://github.com/gowmikaganji-beep/GameSenseAI)
- A dynamic web application that helps users discover video games based on their current mood. Users select how they feel — such as Relaxed, Competitive — and the platform displays curated game options along with trailers
-- **Tech Stack:** html5,CSS3,Javascript
-- **Features:** Automated data management, efficient retrieval
 
-### 👥 [Attendance Management System](https://github.com/gowmikaganji-beep/Attendance-Management-System-Using-Bit-Manipulation-)
-Console-based attendance system using bit manipulation techniques in C++. Uses a 32-bit integer for efficient storage.
-- **Tech Stack:** C++
-- **Features:** Bit manipulation, Memory efficient
-
-### 🛒 [ShopHub - E-commerce Platform](https://github.com/gowmikaganji-beep)
-Modern, responsive shopping cart application with attractive UI/UX
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Dynamic cart, real-time calculations, responsive design
-
----
 
 ## 🛠️ Technical Skills
 
